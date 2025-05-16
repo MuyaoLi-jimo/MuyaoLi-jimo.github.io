@@ -1,1 +1,2 @@
-bundle exec jekyll liveserve
+#!/bin/zsh
+bundle exec jekyll serve
