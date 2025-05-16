@@ -27,7 +27,7 @@ As Rich Sutton wrote in *The Bitter Lesson*,
 
 > The biggest lesson... is that general methods that leverage computation are ultimately the most effective, and by a large margin.
 
-This insight continues to shape my perspective. While end-to-end training remains a viable path, I believe leveraging foundation models as flexible substrates — and teaching them to interact, remember, and reason — may be a more pragmatic route toward building truly autonomous systems.
+This insight continues to shape my perspective. While training from scratch remains a viable path, I believe leveraging foundation models as flexible substrates — and teaching them to interact, remember, and reason — may be a more pragmatic route toward building truly autonomous systems.
 
 
 # 🔥 News
