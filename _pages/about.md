@@ -19,7 +19,7 @@ redirect_from:
 
 My name is Muyao Li (李沐遥), an undergraduate student in the Tong Class at Peking University. You can reach me at li_muyao@stu.pku.edu.cn.
 
-I am currently an intern at [CraftJarvis](https://craftjarvis.github.io/), where we focus on building autonomous agents that can operate in open world. To me, true autonomy consists of three layers: (1) the ability to robustly follow user instructions in dynamic, uncertain settings; (2) the capacity to comply with predefined rules and constraints; and (3) ultimately, the emergence of self-directed, value-aligned behavior over time.
+I am currently an intern at [CraftJarvis](https://craftjarvis.github.io/), where we focus on building autonomous agents that can operate in open world. To me, true autonomy consists of three layers: (1) the ability to robustly follow user instructions in dynamic, uncertain and long-horizon settings; (2) the capacity to comply with predefined rules and constraints; and (3) ultimately, the emergence of self-directed, value-aligned behavior over time.
 
 While the latter two remain open challenges, I see instruction-following as the essential first step. My current work explores how visual language models can be adapted into long-horizon, instruction-following agents. I am particularly interested in augmenting these models with memory and lightweight reasoning capabilities, aiming to bridge the gap between passive perception and active decision-making.
 
