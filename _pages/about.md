@@ -20,7 +20,7 @@ Hi! My name is Muyao Li (李沐遥). I am an undergraduate student in the Tong C
 
 My research focuses on building generalized agents that unify perception, reasoning, and decision-making within an end-to-end foundation model. My current work centers on deploying such agents in games.
 
-Research Interests: Machine Learning, Reinforcement Learning, Reasoning, Embodied Intelligence, LLM Agents
+**Research Interests**: Machine Learning, Reinforcement Learning, Reasoning, Embodied Intelligence, LLM Agents
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 The Paper "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse" are accepted by ACL 2025
