@@ -16,22 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hi! My name is Muyao Li (李沐遥). I am an undergraduate student in the Tong Class at Peking University, and currently an intern in the [CraftJarvis](https://github.com/CraftJarvis) team. You can reach me at li_muyao@stu.pku.edu.cn.
 
-My name is Muyao Li (李沐遥), an undergraduate student in the Tong Class at Peking University. You can reach me at li_muyao@stu.pku.edu.cn.
+My research focuses on building generalized agents that unify perception, reasoning, and decision-making within an end-to-end foundation model. My current work centers on deploying such agents in games.
 
-I am currently an intern at [CraftJarvis](https://craftjarvis.github.io/), where we focus on building autonomous agents that can operate in open world. To me, true autonomy consists of three progressive layers:
-(1) the capacity to robustly carry out user instructions in dynamic, uncertain, and long-horizon environments;
-(2) the ability to operate within predefined rules, norms, and constraints, even when they conflict with task efficiency; and
-(3) the emergence of self-directed behavior shaped by internalized, value-aligned objectives that endure over time.
-
-While the latter two remain open challenges, I see instruction-following as the essential first step. My current work explores how visual language models can be adapted into long-horizon, instruction-following agents. I am particularly interested in augmenting these models with memory and lightweight reasoning capabilities, aiming to bridge the gap between passive perception and active decision-making.
-
-As Rich Sutton wrote in *The Bitter Lesson*,
-
-> The biggest lesson... is that general methods that leverage computation are ultimately the most effective, and by a large margin.
-
-This insight continues to shape my perspective. While training from scratch remains a viable path, I believe leveraging foundation models as flexible substrates — and teaching them to interact, remember, and reason — may be a more pragmatic route toward building truly autonomous systems.
-
+Research Interests: Machine Learning, Reinforcement Learning, Reasoning, Embodied Intelligence, LLM Agents
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 The Paper "JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse" are accepted by ACL 2025
@@ -54,4 +43,3 @@ This insight continues to shape my perspective. While training from scratch rema
 
 # 📖 Educations
 ![](images/PKU.png) &nbsp;&nbsp;*2022.09 - now*, Undergraduate, Yuanpei College, Peking University, Beijing
-
