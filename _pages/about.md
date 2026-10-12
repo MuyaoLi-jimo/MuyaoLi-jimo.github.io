@@ -69,7 +69,7 @@ Kaichen He, Zihao Wang, **Muyao Li**, Anji Liu, Yitao Liang
 </div>
 
 
-# 📖 Education {#-educations}
+<h1 id="-educations">📖 Education</h1>
 
 - **Ph.D. student (first year)**, Institute for Artificial Intelligence, Peking University, Beijing. Advisor: Prof. [Yaodong Yang](https://yangyaodong.com/).
 - **Undergraduate studies**, Yuanpei College (Tong Class), Peking University, Beijing. Enrolled in September 2022.
