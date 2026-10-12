@@ -73,3 +73,7 @@ Kaichen He, Zihao Wang, **Muyao Li**, Anji Liu, Yitao Liang
 
 - **Ph.D. student (first year)**, Institute for Artificial Intelligence, Peking University, Beijing. Advisor: Prof. [Yaodong Yang](https://yangyaodong.com/).
 - **Undergraduate studies**, Yuanpei College (Tong Class), Peking University, Beijing. Enrolled in September 2022.
+
+<h1 id="experience">💼 Experience</h1>
+
+- **2025.11 – Present**: Intern, **Seed team**.
